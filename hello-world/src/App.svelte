@@ -83,10 +83,6 @@
 	.parent-container {
 		padding: 20px;
 	}
-	.name-list {
-		display: flex;
-		flex-direction: column;
-	}
 	h1 {
 		color: #ff3e00;
 		text-transform: uppercase;
